@@ -6,30 +6,30 @@
   "paused": false,
   "releases": {
     "mac-arm64": {
-      "version": "0.99.2",
-      "url": "https://github.com/POND-dot/goodtrace-releases/releases/download/qa-v0.99.2/GOODTRACE-plus-mac-arm64-0.99.2.zip",
-      "bytes": 75920550,
-      "sha256": "128f4a857444e43613d40f8b9994e73453fe5a9464feab417d1d7906e294dde0",
+      "version": "0.99.3",
+      "url": "https://github.com/POND-dot/goodtrace-releases/releases/download/qa-v0.99.3/GOODTRACE-plus-mac-arm64-0.99.3.zip",
+      "bytes": 75900568,
+      "sha256": "1be53e49dfea7c14c16182a1811bad5a090a66c197b93ca86e246a73b9687cad",
       "keyId": "gt-upd-2026-11",
       "minMacos": "12.0",
       "minPremiere": 24,
-      "publishedAt": "2026-11-11T15:40:26.073Z",
-      "signature": "4WisItGqFYaKA7vwly4zdUYucab/mjqr+yY1MW5V9eppZXEfHdZCWrej59PXstLsTwdpXnlE9rQ1XSTTc1brCg=="
+      "publishedAt": "2026-11-11T16:11:24.889Z",
+      "signature": "+p6YaCYCSU7z6YYLwfCkgNL6+s+iNIaJkHKewd60tdrNXcYAgxnUklfG+Ud26J2y7PeztpuAqvVnVtdKtIP+Dg=="
     },
     "win-x64": {
-      "version": "0.99.2",
-      "url": "https://github.com/POND-dot/goodtrace-releases/releases/download/qa-v0.99.2/GOODTRACE-plus-win-x64-0.99.2.zip",
-      "bytes": 92966098,
-      "sha256": "b9ce5b08bb33b79ba07eb6f7bdab89cc7462353895a2398d4c21a1dcda599241",
+      "version": "0.99.3",
+      "url": "https://github.com/POND-dot/goodtrace-releases/releases/download/qa-v0.99.3/GOODTRACE-plus-win-x64-0.99.3.zip",
+      "bytes": 92966165,
+      "sha256": "2e34e7cc81893e4d77f2d5f65878a9e1132908d8ba857b46b43457a5779d8bcf",
       "keyId": "gt-upd-2026-11",
       "minWindowsBuild": 19041,
       "minPremiere": 24,
-      "publishedAt": "2026-11-11T15:40:26.073Z",
-      "signature": "yCUJxKNFCRlGKJxV8RzJE98iW7MPDy1CJUA2wFRGzGIIBk4NpPMi9Kbyko2qjJg78RA2JjR+0LV4WFQejHlWBA=="
+      "publishedAt": "2026-11-11T16:11:24.889Z",
+      "signature": "yL+/fTFNmBFLIrIlNQkvOFq/ij/jrtCB4XdGX8JUPGUqdw949WO3mfp2Km0UBVG7vDMgxv1b+MJEQeaT8SDCBA=="
     }
   },
   "notes": {
-    "0.99.2": [
+    "0.99.3": [
       "ทดสอบระบบอัปเดต QA (ไม่ใช่รุ่นสำหรับลูกค้า)"
     ]
   }
